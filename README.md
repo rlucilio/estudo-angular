@@ -37,10 +37,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### 🎲 Rodando
 ```bash
 # Clone este repositório
-$ git clone https://github.com/rlucilio/estudo-angular.git
+$ git clone https://github.com/rlucilio/study-angular.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd estudo-angular
+$ cd study-angular
 
 # Instale as dependências
 $ npm install
