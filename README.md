@@ -6,10 +6,10 @@
 <p  align="center">Praticar meu conhecimento com angular fazendo o "to hero"</p>
 
 <p  align="center">
-	<img  src="https://img.shields.io/github/languages/count/rlucilio/estudo-angular?style=for-the-badge&logo=ghost&color=7ED957"/>
-	<img  src="https://img.shields.io/github/languages/top/rlucilio/estudo-angular?style=for-the-badge&logo=ghost&color=7ED957"/>
-	<img  src="https://img.shields.io/github/languages/code-size/rlucilio/estudo-angular?style=for-the-badge&logo=ghost&color=7ED957"/>
-	<img  src="https://img.shields.io/github/commit-activity/w/rlucilio/estudo-angular?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/count/rlucilio/study-angular?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/top/rlucilio/study-angular?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/languages/code-size/rlucilio/study-angular?style=for-the-badge&logo=ghost&color=7ED957"/>
+	<img  src="https://img.shields.io/github/commit-activity/w/rlucilio/study-angular?style=for-the-badge&logo=ghost&color=7ED957"/>
 </p>
 
 <p  align="center"> 
